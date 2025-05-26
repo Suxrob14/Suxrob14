@@ -9,8 +9,8 @@ I'm a passionate and curious junior developer who loves to build and explore new
 * 🌍  I'm based in Uzbekistan
 * 🧠  I'm learning C++, Java , JavaScript, Python
 * 🤝  I'm open to collaborating on interesting projects
-<a href="https://user-badge.committers.top/uzbekistan/suxrob14">
-  <img src="https://user-badge.committers.top/uzbekistan/suxrob14.svg" alt="Committers Top" />
+<a href="https://user-badge.committers.top/uzbekistan/Suxrob14">
+  <img src="https://user-badge.committers.top/uzbekistan/Suxrob14.svg" alt="Committers Top" />
 </a>
 <a href="https://www.github.com/suxrob14" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/suxrob14?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
