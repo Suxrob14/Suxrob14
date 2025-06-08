@@ -1,6 +1,6 @@
-eee
+ee
 Hi 👋 My name is Suxrob
-=======================e
+
 
 Softfare Engineer
 -----------------
