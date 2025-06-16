@@ -1,4 +1,4 @@
-eHi 👋 My name is Suxrob               ....    انا احب د
+Hi 👋 My name is Suxrob               ....    انا احب د
 ا
 
 Softfare Engineer
